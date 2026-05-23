@@ -1,6 +1,7 @@
 # Multiplex Blockmodeling Explorer
 
 A Shiny app to explore how weighting three task interdependence rationales shifts the task grouping produced by generalised blockmodeling.
+Produced for a Masters’ thesis submitted to obtain the degree of Master in Sociology at KU Leuven.
 
 **Live app:** https://lmnu-blockmodeling.share.connect.posit.cloud
 
